@@ -1,0 +1,15 @@
+D:\C# Programs\MultipleObject\bin\Debug\net6.0\MultipleObject.exe
+D:\C# Programs\MultipleObject\bin\Debug\net6.0\MultipleObject.deps.json
+D:\C# Programs\MultipleObject\bin\Debug\net6.0\MultipleObject.runtimeconfig.json
+D:\C# Programs\MultipleObject\bin\Debug\net6.0\MultipleObject.dll
+D:\C# Programs\MultipleObject\bin\Debug\net6.0\MultipleObject.pdb
+D:\C# Programs\MultipleObject\obj\Debug\net6.0\MultipleObject.csproj.AssemblyReference.cache
+D:\C# Programs\MultipleObject\obj\Debug\net6.0\MultipleObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\MultipleObject\obj\Debug\net6.0\MultipleObject.AssemblyInfoInputs.cache
+D:\C# Programs\MultipleObject\obj\Debug\net6.0\MultipleObject.AssemblyInfo.cs
+D:\C# Programs\MultipleObject\obj\Debug\net6.0\MultipleObject.csproj.CoreCompileInputs.cache
+D:\C# Programs\MultipleObject\obj\Debug\net6.0\MultipleObject.dll
+D:\C# Programs\MultipleObject\obj\Debug\net6.0\refint\MultipleObject.dll
+D:\C# Programs\MultipleObject\obj\Debug\net6.0\MultipleObject.pdb
+D:\C# Programs\MultipleObject\obj\Debug\net6.0\MultipleObject.genruntimeconfig.cache
+D:\C# Programs\MultipleObject\obj\Debug\net6.0\ref\MultipleObject.dll
